@@ -1,3 +1,3 @@
 # AirStrike
 Simple Qt-based game.
-refference : https://github.com/MeLikeyCode/QtGameTutorial
+reference : https://github.com/MeLikeyCode/QtGameTutorial
